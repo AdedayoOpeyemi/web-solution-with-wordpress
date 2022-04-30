@@ -11,3 +11,7 @@ Project 6 consists of two parts:
 2. Install WordPress and connect it to a remote MySQL database server. This part of the project will solidify your skills of deploying Web and DB tiers of Web solution.
 
 - As a DevOps engineer, your deep understanding of core components of web solutions and ability to troubleshoot them will play essential role in your further progress and development.
+
+- [LAUNCH AN EC2 INSTANCE THAT WILL SERVE AS “WEB SERVER”.](lauch-ec2-that-will-be-web-server.md) 
+
+- [UPDATE THE `/ETC/FSTAB` FILE](update-etcfstab-file.md) 
